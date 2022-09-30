@@ -1,0 +1,6 @@
+.DS_Store
+tjs
+tjs.exe
+*.dll
+*.so
+*.dylib
