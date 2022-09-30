@@ -18,7 +18,7 @@ SetTargetFPS(60)
 while (!WindowShouldClose()) {
   BeginDrawing()
   ClearBackground(0x000000)
-  DrawText('Congrats! You created your first node-raylib window!', 120, 200, 20, 0xffffffff)
+  DrawText('Congrats! You created your first txiki-raylib window!', 120, 200, 20, 0xffffffff)
   EndDrawing()
 }
 
